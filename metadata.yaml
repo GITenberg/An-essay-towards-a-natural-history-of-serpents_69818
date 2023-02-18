@@ -1,5 +1,8 @@
 _repo: An-essay-towards-a-natural-history-of-serpents_69818
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69818-h/images/cover.jpg
 creator:
   author:
     agent_name: Owen, Charles
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '55435'
     url: http://www.gutenberg.org/2009/agents/55435
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69818#An-essay-towards-a-natural-history-of-serpents
 gutenberg_issued: '2023-01-16'
 identifiers:
   gutenberg: '69818'
